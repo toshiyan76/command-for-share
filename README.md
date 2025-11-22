@@ -11,8 +11,8 @@
 
 以下のツールや環境で、定義されたコマンドやエージェント機能を利用できます：
 
-- **Anti-Gravity**
-- **Cloud Code**
+- **AntiGravity**
+- **Claude Code**
 - **Codex**
 - **Cursor**
 
